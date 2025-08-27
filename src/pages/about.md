@@ -3,35 +3,34 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+<!-- **State Machine Theorist & Game Mechanics Crafter** -->
+<!-- （状态机理论家 & 游戏机制工匠） -->
 
-![Astro Paper](public/astropaper-og.jpg)
+我是一名前电子信息工程师，现投身于代码世界的探索者。我的旅程始于晶体管与电路，却最终迷失在人类心智与机器逻辑交界的更复杂迷宫之中。
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+**🤔 从“如何工作”到“为何如此”**
+我的工科背景赋予我拆解复杂系统、理解其运行机制的本能。但在经历了现代社会的劳动异化后，我渴望更深层的理解。这驱使我对**政治哲学、制度史和思想史**产生了浓厚的研究兴趣。我坚信，一个优秀的创造者（无论是制度还是游戏）首先必须是一位深刻的人性观察者。我试图在卡尔·马克思与《文明》系列游戏之间，在汉娜·阿伦特与《极乐迪斯科》之间，寻找那些解释系统如何运作的共通语言。
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+**🎮 我的圣杯：意义与机制的融合**
+我并非痴迷于华丽的画面，而是**痴迷于机制（Mechanics）**——那些定义玩家能做什么、不能做什么的底层规则。一个精妙的机制就是一个优雅的状态机，它能涌现出无限的可能性与叙事。我目前专注于：
+-   用 **JavaScript/Canvas** 构建交互式原型，验证机制的有效性。
+-   探索**状态机、行为树和程序化生成**在游戏中的应用。
+-   撰写长篇论述，分析经典游戏如何通过机制传达情感与思想。
 
-## Features
+**💻 我的技术栈：实现思想的工具**
+我的实践扎根于前端技术领域，这是我实现想法的画布与刻刀。
+-   **语言**：JavaScript (ES6+), TypeScript, Python, C
+-   **图形与游戏**：Canvas 2D, WebGL, Cocos Creator
+-   **前端工程**：React, Astro, Vite
+-   **永恒的关注**：算法、数据结构、计算机组成原理
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+**📝 我在这里写什么**
+这个博客是我思想的实验场和公共笔记本。你将在这里找到：
+-   **游戏设计日志**：我对游戏机制的解构、原型和思考。
+-   **深度技术笔记**：对前端/计算机基础知识的探索与剖析。
+-   **跨界沉思**：偶尔关于哲学、历史与社会技术的随笔。
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+**🌱 下一步探索**
+我目前正在寻找一份**前端开发**或**初级技术策划**的职位，我渴望加入一个重视**系统思维**、**创造性解决方方案**和**底层逻辑**的团队。我相信，我独特的跨学科背景能让我在构建直观用户体验和复杂交互系统时，提供与众不同的视角。
 
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+> 我们并非在制作游戏，我们是在构建一座由规则构成的宫殿，并邀请他人前来居住和探索。

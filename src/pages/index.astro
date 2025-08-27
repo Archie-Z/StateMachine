@@ -25,7 +25,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
   <main id="main-content" data-layout="index">
     <section id="hero" class="pt-8 pb-6">
       <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Mingalaba
+        Archie.Z
       </h1>
       <a
         target="_blank"
@@ -42,13 +42,26 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         <span class="sr-only">RSS Feed</span>
       </a>
 
-      <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
+      <p class="mt-2">你好，我是 <i>Archie.Z</i>，一名从电子信息工程蹒跚步入软件世界的探索者。</p>
+
+      <p class="mt-4">
+        我曾深陷技术选择的焦虑与职业路径的迷茫。建立这个博客，是为了锚定思考，记录如何用<b>工科的逻辑</b>去理解<b>代码的世界</b>，用<b>哲学的思辨</b>去解构<b>游戏的乐趣</b>。 
       </p>
+
       <p class="mt-2">
+        <p class="mt-2"><b>• 在这里，你会看到​：</b></p>
+          <p class="mt-2" style="text-indent: 2em;">
+            <b>• 📜​前端深潜​：</b>对 JavaScript/TypeScript 和框架原理的剖析与实战笔记。
+          </p>
+          <p style="text-indent: 2em;">
+            <b>• 🎮​游戏创世​：</b>从零开始构建游戏 demo 的过程，以及对精妙游戏机制的设计与反思。
+          </p>
+          <p style="text-indent: 2em;">
+            <b>• 🧠​系统思维​：</b>对编程、游戏乃至更广阔世界运行规则的探索。
+          </p>
+        <p class="mt-2">这是一个关于「理解」和「创造」的博客。欢迎同行。</p>
+      </p>
+      <!-- <p class="mt-2">
         Read the blog posts or check
         <LinkButton
           class="underline decoration-dashed underline-offset-4 hover:text-accent"
@@ -56,12 +69,12 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         >
           README
         </LinkButton> for more info.
-      </p>
+      </p> -->
       {
         // only display if at least one social link is enabled
         SOCIALS.length > 0 && (
           <div class="mt-4 flex flex-col sm:flex-row sm:items-center">
-            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Social Links:</div>
+            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Contact: </div>
             <Socials />
           </div>
         )
