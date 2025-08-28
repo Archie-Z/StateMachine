@@ -1,6 +1,6 @@
 # StateMachine 📝
 
-![StateMachine](public/assets/stateMachine-og.jpg)
+![StateMachine](public/assets/favicon.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 
