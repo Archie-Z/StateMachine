@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/Archie-Z/StateMachine/edit/main/",
+    url: "https://github.com/Archie-Z/StateMachine/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
