@@ -7,6 +7,9 @@ import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
 import IconFacebook from "@/assets/icons/IconFacebook.svg";
 import IconTelegram from "@/assets/icons/IconTelegram.svg";
 import IconPinterest from "@/assets/icons/IconPinterest.svg";
+import IconBilibili from "@/assets/icons/IconBilibili.svg";
+import IconQQ from "@/assets/icons/IconQQ.svg";
+// import IconWechat from "@/assets/icons/IconWechat.svg";
 import { SITE } from "@/config";
 
 interface Social {
@@ -40,6 +43,18 @@ export const SOCIALS: Social[] = [
     href: "mailto:archie.z@zhoon.com",
     linkTitle: `Send an email to ${SITE.title}`,
     icon: IconMail,
+  },
+  {
+    name: "BiliBili",
+    href: "https://space.bilibili.com/205399463?spm_id_from=333.1007.0.0",
+    linkTitle: `${SITE.title} on BiliBili`,
+    icon: IconBilibili,
+  },
+  {
+    name: "QQ",
+    href: "https://tool.gljlw.com/qqq/?qq=1731137238",
+    linkTitle: `${SITE.title} on QQ`,
+    icon: IconQQ,
   },
 ] as const;
 
